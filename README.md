@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Google Cloud Platform.**
 
-- 🌱 I’m currently learning more about **Working on Algorithms.**
+- 🌱 I’m currently learning more about **Web Mining.**
 
 - 📩 How to reach me **kartik.kumar2019@vitstudent.ac.in**
 
