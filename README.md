@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning more about **Web Mining.**
 
-- 📩 How to reach me **kartik.kumar2019@vitstudent.ac.in**
+- 📩 How to reach me **kartik.kumar2019@vitstudent.ac.in** (I often check my Dm :D )
 
 
 <h3 align="left">Languages and Tools:</h3>
