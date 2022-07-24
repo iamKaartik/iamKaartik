@@ -5,8 +5,6 @@
          
 ![image](https://github.com/iamKaartik/iamKaartik/blob/main/dino.gif)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamkaartik&label=Views&color=blue&style=plastic&style=for-the-badge" alt="iamkaartik" /> </p>
-
 ## <img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="50"> About Me :
 - 😄 Pronouns: He/His
 - 🌱 I’m currently learning everything 👻
@@ -39,10 +37,9 @@
   <summary>:zap: 📈 GitHub Stats</summary>
 <br />
   <img width="48%" alt="iamkaartik's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=iamkaartik&theme=calm&show_icons=true" />	
-  <img width="48%" alt="iamkaartik's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=iamkaartik&theme=yeblu&show_icons=true" />
+  <img width="48%" alt="iamkaartik's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=iamkaartik&theme=calm&show_icons=true" />
          <br />
 </details>
 
-<img align="center" width="48%" height="30%" alt="iamkaartik's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkaartik&layout=compact&theme=calm&show_icons=true" />
-
-
+<br/>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=iamkaartik&label=Views&color=blue&style=plastic&style=for-the-badge" alt="iamkaartik" /> </p>
