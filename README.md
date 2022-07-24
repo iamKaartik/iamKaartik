@@ -2,7 +2,9 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" /> I'm "Kartik Kumar!!!" </h1>
-<h3 align="center">A learner on the way to explore.</h3>
+         
+![image](https://github.com/iamKaartik/iamKaartik/blob/main/dino.gif)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamkaartik&label=Views&color=blue&style=plastic&style=for-the-badge" alt="iamkaartik" /> </p>
 
 ## <img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="50"> About Me :
