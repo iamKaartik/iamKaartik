@@ -1,8 +1,8 @@
 <h1 align="center"> Hola, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
-         height="45"
-         width="45" /> I'm "Kartik Kumar!!!" </h1>
-         
+         height="35"
+         width="35" /> I'm "Kartik Kumar!!!" </h1>
+
 ![image](https://github.com/iamKaartik/iamKaartik/blob/main/dino.gif)
 
 - 😄 Pronouns: He/His
@@ -33,7 +33,7 @@
 <br />
 
 <details>
-  <summary>:zap: 📈 GitHub Stats</summary>
+  <summary> 📈 GitHub Stats</summary>
 <br />
   <img width="48%" alt="iamkaartik's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=iamkaartik&theme=calm&show_icons=true" />	
   <img width="48%" alt="iamkaartik's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=iamkaartik&theme=calm&show_icons=true" />
