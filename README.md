@@ -5,15 +5,14 @@
          
 ![image](https://github.com/iamKaartik/iamKaartik/blob/main/dino.gif)
 
-## <img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="50"> About Me :
 - 😄 Pronouns: He/His
 - 🌱 I’m currently learning everything 👻
 - 🥅 2022 Goals: Learn more about data visualization
 - ⚡ Fun fact: I like to play the guitar, although I haven't in a long.
 - 📩 How to reach me kartik.kumar2019@vitstudent.ac.in (I often check my Dm :D )
-<br />
 
-### Languages and Tools:
+
+## <img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="50"> Languages and Tools:
 
 [<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="padding-right:10px;" />](https://www.java.com)
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](https://github.com/iamKaartik)
