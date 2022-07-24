@@ -34,10 +34,10 @@
 
 <details>
   <summary> 📈 GitHub Stats</summary>
-<br />
-  <img width="48%" alt="iamkaartik's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=iamkaartik&theme=calm&show_icons=true" />	
-  <img width="48%" alt="iamkaartik's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=iamkaartik&theme=calm&show_icons=true" />
-         <br />
+
+  <img width="48%" alt="iamkaartik's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=iamkaartik&theme=solarized-light&show_icons=true" />	
+  <img width="48%" alt="iamkaartik's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=iamkaartik&theme=solarized-dark&show_icons=true" />
+        
 </details>
 
 <br/>
