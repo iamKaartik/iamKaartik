@@ -5,7 +5,7 @@
 <h3 align="center">A learner on the way to explore.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamkaartik&label=Views&color=blue&style=plastic&style=for-the-badge" alt="iamkaartik" /> </p>
 
-# 🎓 About Me :
+# <img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="50"> About Me :
 - 😄 Pronouns: He/His
 - 🔭 I’m currently learning more about Data Visualization.
 - ⚡ Fun fact: I enjoy drawing and playing the guitar, though I haven't done either in a while.
