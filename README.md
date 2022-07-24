@@ -7,6 +7,7 @@
 
 # 🎓 About Me :
 - 😄 Pronouns: He/His
+- 👨‍💻 Engineer under construction.
 - 🔭 I’m currently learning more about Data Visualization.
 - 📩 How to reach me kartik.kumar2019@vitstudent.ac.in (I often check my Dm :D )
 
