@@ -7,7 +7,7 @@
 
 - 😄 Pronouns: He/His
 - 🌱 I’m currently learning everything 👻
-- 🥅 2022 Goals: Learn more about data visualization
+- 🥅 2022 Goals: Learn more about WEB 3.0
 - ⚡ Fun fact: I enjoy playing the guitar, although I haven't done it in a long time.
 - 📩 How to reach me kartik.kumar2019@vitstudent.ac.in (I often check my Dm :D )
 
