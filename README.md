@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning everything 👻
 - 🥅 2023 Goals: Learn to play violin.
 - ⚡ Fun fact: I enjoy playing the guitar, although I haven't done it in a long time.
-- 📩 How to reach me kartik.kumar2019@vitstudent.ac.in (I often check my Dm :D )
+- 📩 How to reach me hello.iamkaartik@gmail.com (I often check my Dm :D )
 
 
 ## <img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="50"> Languages and Tools:
