@@ -5,7 +5,7 @@
 
 ![image](https://github.com/iamKaartik/iamKaartik/blob/main/dino.gif)
 
-- 😄 Pronouns: He/His/Him
+- 😄 Pronouns: He/His/Him.
 - 🌱 I’m currently learning everything 👻
 - 🥅 2023 Goals: Learning to sleep with my eyes wide open 🐽
 - ⚡ Fun fact: I enjoy playing the guitar, although I haven't done it in a long time.
