@@ -7,7 +7,7 @@
 
 - 😄 Pronouns: He/His/Him.
 - 🌱 I’m currently learning everything 👻
-- 🥅 2023 Goals: Learning to sleep with my eyes wide open 🐽
+- 🥅 2026 Goals: Learning to dream with my eyes wide open 🐽
 - ⚡ Fun fact: I enjoy playing the guitar, although I haven't done it in a long time.
 - 📩 How to reach me hello.iamkaartik@gmail.com (I often check my Dm :D )
 
